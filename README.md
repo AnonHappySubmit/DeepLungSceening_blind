@@ -2,6 +2,8 @@
 
 This is the Deep Learning Open-source Lung cancer risk estimation repository, with PyTorch implementations. We prevoide source code, running tutorial, pre-trained model, docker, and [example image](https://drive.google.com/drive/folders/1gyKfWa_vmI_0K0dZ_lBUynCnOJhy3dKU?usp=sharing) in this repository.
 
+This is for the blinded review of this paper "Validation of Cancer Risk Estimation Combining Lung Screening CT with Clinical Data Elements". 
+
 Please see the requirement in the Dockerfile. Different version packages should be easy to adapt (not guarantee). 
 
 # Tutorial
